@@ -1,0 +1,68 @@
+*{
+  color: #0e7070;
+
+}
+.app-sidenav-container{
+  background-image: url('https://www.pngmagic.com/product_images/website-background-image-size-psd-vector-photo.jpg');  
+  background-size: cover;
+}
+.app-sidenav-container{
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.app-sidenav{
+  background-image: url('https://www.pngmagic.com/product_images/website-background-image-size-psd-vector-photo.jpg');  
+  background-size: cover;
+}
+.app-sidenav-content{
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  position: sticky;
+
+}
+.app-sidenav{
+  width: 200px;
+
+}
+
+.wrapper{
+  margin: 10px;
+}
+.anchor_class{
+  margin-left: 10px;
+}
+.card{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+mat-list-item:hover{
+  background: #0e707086;
+  border-radius: 1232px;
+  background-image: url('https://www.pngmagic.com/product_images/website-background-image-size-psd-vector-photo.jpg');  
+  background-size: cover;
+  background-blend-mode: hue;
+}
+
+mat-toolbar{
+  background: #0e7070;
+  padding: 20px 16px;
+  color: white;
+}
+
+
+a{
+  text-decoration: none;
+  color: white;
+}
+mat-list{
+  padding: 0px;
+}
+p{
+  text-align: center;
+}
